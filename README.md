@@ -1,4 +1,3 @@
-# __projectNamn__
 
 # README
 This project is a simple webscraping program, using Python
@@ -29,6 +28,20 @@ Method:
 + Store an [[SQLite]] databas
 + Write into an analyst document
 	+ Maybe email, another project
+
+# Installguide
+
+- requests - for making HTTP requests to the website
+- BeautifulSoup - for parsing the HTML code
+- pandas - for storing the scraped data in a data frame
+
+
+use: 
+
+pip install requests
+			beautifulsoup4
+			pandas
+			
 
 
 # Resources
