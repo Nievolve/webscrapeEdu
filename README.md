@@ -45,7 +45,9 @@ pip install requests
 
 
 # Resources
+## Guide
 [Nanonets Webscraping Guide](https://nanonets.com/blog/web-scraping-with-python-tutorial/)
+## Webscrape target
 [DataEngineer Framtid](https://www.framtid.se/yrke/dataingenjor)
 [AutomationEngineer Framtid](https://www.framtid.se/yrke/automationsingenjor)
 

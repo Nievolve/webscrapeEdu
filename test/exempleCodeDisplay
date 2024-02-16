@@ -1,0 +1,6 @@
+import panda as df
+from IPython.display import display
+import exampelCode
+
+display(exampelCode.df)
+
