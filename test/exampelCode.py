@@ -36,5 +36,6 @@ logger.debug(movies)
 # Add a delay between requests to avoid overwhelming the website with requests
 time.sleep(1)
 
+df.to_csv('top-rated-movies.csv', index=False)
 
 print("Program Complete")

@@ -1,4 +1,4 @@
-DEBUG 2024-02-16 18:01:07,917,Starting new HTTPS connection (1): www.imdb.com:443
-DEBUG 2024-02-16 18:01:08,170,https://www.imdb.com:443 "GET /chart/top HTTP/1.1" 403 None
-DEBUG 2024-02-16 18:01:08,183,Encoding detection: ascii is most likely the one.
-DEBUG 2024-02-16 18:01:08,199,[]
+DEBUG 2024-02-16 21:06:59,848,Starting new HTTPS connection (1): www.imdb.com:443
+DEBUG 2024-02-16 21:07:00,111,https://www.imdb.com:443 "GET /chart/top HTTP/1.1" 403 None
+DEBUG 2024-02-16 21:07:00,123,Encoding detection: ascii is most likely the one.
+DEBUG 2024-02-16 21:07:00,149,[]

@@ -1,4 +1,4 @@
-import panda as df
+import pandas as df
 from IPython.display import display
 import exampelCode
 
