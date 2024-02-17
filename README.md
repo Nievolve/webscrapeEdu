@@ -34,20 +34,22 @@ Method:
 - requests - for making HTTP requests to the website
 - BeautifulSoup - for parsing the HTML code
 - pandas - for storing the scraped data in a data frame
-
+- iPython - for displaying pandas dataframe
 
 use: 
 
 pip install requests
 			beautifulsoup4
 			pandas
-			
+			ipython
 
 
 # Resources
 ## Guide
 [Nanonets Webscraping Guide](https://nanonets.com/blog/web-scraping-with-python-tutorial/)
+
+[Beautiful_Soup_4_Tutorial_#1_-_Web_Scraping_With_Python](https://www.youtube.com/watch?v=gRLHr664tXA)
 ## Webscrape target
-[DataEngineer Framtid](https://www.framtid.se/yrke/dataingenjor)
+[DataEngineer Framtid](https://www.framtid.se/yrke/dataingenjor)  
 [AutomationEngineer Framtid](https://www.framtid.se/yrke/automationsingenjor)
 
